@@ -10,7 +10,7 @@ or because its structure fits image data better.
 ```
 .
 ├── README.md
-├── cnn_workshop.ipynb        # EDA, baseline, CNN, experiment, interpretation
+├── notebook.ipynb        # EDA, baseline, CNN, experiment, interpretation
 ├── requirements.txt
 └── artifacts/
     └── results.json          # full metrics (generated when the notebook runs)
